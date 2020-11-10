@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40da0680-6dd1-4b77-b01a-e7051c83c645" name="Default Changelist" comment="making changes to main.css, index.html. speaker.css, sampson.html">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/sampson.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/sampson.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +101,7 @@
       <workItem from="1604979253790" duration="2526000" />
       <workItem from="1604981868519" duration="4185000" />
       <workItem from="1604986393835" duration="12000" />
+      <workItem from="1604986706874" duration="135000" />
     </task>
     <task id="LOCAL-00001" summary="Adding HTML to CSS">
       <created>1603163326623</created>
@@ -165,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604986101001</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="making changes to main.css, index.html. speaker.css, sampson.html">
+      <created>1604986758757</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604986758757</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -270,11 +278,11 @@
       <screen x="62" y="0" width="1218" height="720" />
     </state>
     <state x="284" y="10" key="SettingsEditor/62.0.1218.720@62.0.1218.720" timestamp="1603769831341" />
-    <state x="284" y="78" key="Vcs.Push.Dialog.v2" timestamp="1604986107976">
+    <state x="284" y="78" key="Vcs.Push.Dialog.v2" timestamp="1604986766500">
       <screen x="62" y="0" width="1218" height="720" />
     </state>
     <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603163339977" />
-    <state x="284" y="78" key="Vcs.Push.Dialog.v2/62.0.1218.720@62.0.1218.720" timestamp="1604986107976" />
+    <state x="284" y="78" key="Vcs.Push.Dialog.v2/62.0.1218.720@62.0.1218.720" timestamp="1604986766500" />
     <state x="498" y="270" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604982475195">
       <screen x="62" y="0" width="1218" height="720" />
     </state>
